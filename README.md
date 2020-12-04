@@ -7,11 +7,11 @@ HTML5 || CSS || Javascript || Vue || NodeJS || MongoDB
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
+Contact ME
+
 [Find Me on LinkedIn](https://www.linkedin.com/in/trevor-douty-48b2a1201)
 
 [Job Hunt](https://docs.google.com/spreadsheets/d/1yTD02cMneZQIaAyJFlGz_MQ-SemNDi4MG6ltIvAaINo/edit#gid=0)
-
-Contact Me
 
 Email: trevor.douty@gmail.com
 
