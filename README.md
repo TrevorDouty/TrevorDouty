@@ -7,7 +7,7 @@ HTML5 || CSS || Javascript || Vue || NodeJS || MongoDB
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
-Contact ME
+Contact Me
 
 [Find Me on LinkedIn](https://www.linkedin.com/in/trevor-douty-48b2a1201)
 
