@@ -9,9 +9,6 @@ ________________________________________________________________________________
 
 Contact Me
 
-[Find Me on LinkedIn](https://www.linkedin.com/in/trevor-douty-48b2a1201)
-
-
 Email: trevor.douty@gmail.com
 
 
